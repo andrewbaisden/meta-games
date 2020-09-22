@@ -1,4 +1,5 @@
 from flask import Flask, jsonify
+from flask_cors import CORS
 from dotenv import load_dotenv
 import os
 import harperdb
@@ -16,6 +17,7 @@ db = harperdb.HarperDB(
 
 
 app = Flask(__name__)
+CORS(app)
 
 
 @app.route('/')

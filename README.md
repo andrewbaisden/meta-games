@@ -1,1 +1,1 @@
-# meta-games
+# Meta Games
