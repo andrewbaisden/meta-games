@@ -1,0 +1,4 @@
+Flask==1.1.2
+Flask-Cors==3.0.9
+harperdb==0.4.2
+python-dotenv==0.14.0
