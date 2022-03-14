@@ -1,0 +1,122 @@
+[
+ {
+   "id": 1,
+   "game_name": "Cyberpunk 2077",
+   "img_url": "https://static.metacritic.com/images/products/games/2/eb4eebb4995485b3a50f6fcf140e095b-98.jpg",
+   "release_year": 2020,
+   "summary": "Cyberpunk 2077 is an open-world action-adventure story set in Night City a megalopolis obsessed with power glamour and body modification. Assume the role of V a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality. You can customize your character’s cyberware skillset and playstyle and explore a vast city where the choices you make shape the story and the world around you. Become a cyberpunk an urban mercenary equipped with cybernetic enhancements and build your legend on the streets of Night City. Take the riskiest job of your life and go after a prototype implant that is the key to immortality.",
+   "developer": "CD Projekt Red Studio",
+   "genre": "RPG",
+   "rating": "M",
+   "platforms": "PS4 Xbox One PC PS5 Xbox Series X/S",
+   "meta_score": 100
+ },
+ {
+   "id": 2,
+   "game_name": "Assassin's Creed Valhalla",
+   "img_url": "https://static.metacritic.com/images/products/games/8/2432dc2a475cbd70964a54e8d6ce3446-98.jpg",
+   "release_year": 2020,
+   "summary": "Build your own Viking Legend. Become Eivor a Viking raider raised to be a fearless warrior and lead your clan from icy desolation in Norway to a new home amid the lush farmlands of ninth-century England. Find your settlement and conquer this hostile land by any means to earn a place in Valhalla. England in the age of the Vikings is a fractured nation of petty lords and warring kingdoms.",
+   "developer": "Ubisoft",
+   "genre": "Action",
+   "rating": "M",
+   "platforms": "PS4 Xbox One PC PS5 Xbox Series X/S",
+   "meta_score": 85
+ },
+ {
+   "id": 3,
+   "game_name": "Microsoft Flight Simulator",
+   "img_url": "https://static.metacritic.com/images/products/games/2/50e00ee1474f423dddb78dc4f1563212-98.jpg",
+   "release_year": 2020,
+   "summary": "From light planes to wide-body jets fly highly detailed and accurate aircraft in the next generation of Microsoft Flight Simulator. Test your piloting skills against the challenges of night flying real-time atmospheric simulation and live weather in a dynamic and living world.",
+   "developer": "Asobo Studio",
+   "genre": "Simulation",
+   "rating": "E",
+   "platforms": "PC",
+   "meta_score": 92
+ },
+ {
+   "id": 4,
+   "game_name": "Iron Harvest",
+   "img_url": "https://static.metacritic.com/images/products/games/8/0d34a589605a38a73b359b3057634f30-98.jpg",
+   "release_year": 2020,
+   "summary": "Iron Harvest is a real-time strategy game (RTS) set in the alternate reality of 1920+ just after the end of the Great War. The Game lets you control giant dieselpunk mechs combining epic singleplayer and coop campaigns as well as skirmishes with intense action on the battlefield for multiplayer fans Iron Harvest is the classic real-time strategy games fans have been waiting for.",
+   "developer": "KING Art",
+   "genre": "RTS",
+   "rating": "E",
+   "platforms": "PC PS4 Xbox One",
+   "meta_score": 74
+ },
+ {
+   "id": 5,
+   "game_name": "Fifa 2020",
+   "img_url": "https://static.metacritic.com/images/products/games/1/dc9eb63b37b0d1f05239219b909ccb20-98.jpg",
+   "release_year": 2019,
+   "summary": "Enjoy more control over the Decisive Moments that determine the outcome of every match in FIFA 20. Pick your target and time it right from the spot. Add curl dip or knuckle to free kicks. A new aiming mechanic gives you more creativity from dead balls. Move with more agility. Lure the defender in. Beat them with speed or skill.",
+   "developer": "Electronic Arts",
+   "genre": "Sports",
+   "rating": "E",
+   "platforms": "PS4 Xbox One PC Switch",
+   "meta_score": 79
+ },
+ {
+   "id": 6,
+   "game_name": "Super Mario 3D All-Stars",
+   "img_url": "https://static.metacritic.com/images/products/games/4/88eda0b6570f09570d8909c3b897546a-98.jpg",
+   "release_year": 2020,
+   "summary": "Play three of Mario’s greatest 3D platform adventures—all in one package. Play three classic games at home or on the go—all in one package on the Nintendo Switch™ system! Jump into paintings in Super Mario 64™ clean up paint-like goop in Super Mario Sunshine™ and fly from planet to planet in Super Mario Galaxy™.",
+   "developer": "Nintendo",
+   "genre": "Miscellaneous",
+   "rating": "E",
+   "platforms": "Switch",
+   "meta_score": 83
+ },
+ {
+   "id": 7,
+   "game_name": "Fury Unleashed",
+   "img_url": "https://static.metacritic.com/images/products/games/7/6401b1b0d8791a6a2d9a34fd32daa67b-98.jpg",
+   "release_year": 2020,
+   "summary": "Fury Unleashed is a combo-driven roguelite action platformer - each kill you score increases your combo. Hit certain thresholds and your damage resistance and healing powers will kick in! It's a game you can even beat in one ultimate combo. Are you up for the task?",
+   "developer": "Awesome Games Studio",
+   "genre": "Action",
+   "rating": "E",
+   "platforms": "PS4 Xbox One PC Switch",
+   "meta_score": 79
+ },
+ {
+   "id": 8,
+   "game_name": "Marvels Avengers",
+   "img_url": "https://static.metacritic.com/images/products/games/9/eb1147c2c379ed447426cd3c85074b5c-98.jpg",
+   "release_year": 2020,
+   "summary": "Marvel’s Avengers is an epic third-person action-adventure game that combines an original cinematic story with single-player and co-operative gameplay. Assemble into a team of up to four players online master extraordinary abilities customize a growing roster of Heroes and defend the Earth from escalating threats.",
+   "developer": "Crystal Dynamics Eidos Montreal",
+   "genre": "Action",
+   "rating": "T",
+   "platforms": "PS4 Xbox One PC Switch",
+   "meta_score": 70
+ },
+ {
+   "id": 9,
+   "game_name": "Hades",
+   "img_url": "https://static.metacritic.com/images/products/games/5/66a3bd7342bf5b122b92862a465177ed-98.jpg",
+   "release_year": 2020,
+   "summary": "Defy the god of death as you hack and slash your way out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion and Transistor.",
+   "developer": "Supergiant Games",
+   "genre": "Action",
+   "rating": "E",
+   "platforms": "PC Switch",
+   "meta_score": 92
+ },
+ {
+   "id": 10,
+   "game_name": "F1 2020",
+   "img_url": "https://static.metacritic.com/images/products/games/0/a6b5c97bd1982a9bf6de744278b973fe-98.jpg",
+   "release_year": 2020,
+   "summary": "For the first time players can create their own F1® team by creating a driver then choosing a sponsor an engine supplier hiring a teammate and competing as the 11th team on the grid. Build facilities develop the team over time and drive to the top.",
+   "developer": "Codemasters",
+   "genre": "Racing",
+   "rating": "E",
+   "platforms": "PS4 Xbox One PC",
+   "meta_score": 91
+ }
+]

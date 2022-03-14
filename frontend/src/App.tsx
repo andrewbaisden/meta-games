@@ -1,5 +1,6 @@
-import React, { Fragment, useState, useEffect } from 'react';
+import React, { Fragment, useState } from 'react';
 import './App.css';
+import data from './data/games.json';
 
 interface Game {
 	developer: string;
@@ -12,39 +13,11 @@ interface Game {
 	rating: string;
 	release_year: number;
 	summary: string;
-	__createdtime: number;
-	__updatedtime__: number;
 }
 
 const App: React.FC = () => {
-	useEffect(() => {
-		getAPI();
-	}, []);
-
-	const getAPI = () => {
-		// Online Version
-		const API = 'https://backend-meta-games-5lfwtew5f.vercel.app/';
-		// Local Version
-		// const API = 'http://127.0.0.1:5000/';
-
-		fetch(API)
-			.then((response) => {
-				console.log(response);
-				return response.json();
-			})
-			.then((apiData) => {
-				console.log(apiData);
-
-				setLoading(true);
-				setGameData(apiData);
-			})
-			.catch((err) => {
-				console.log(err);
-			});
-	};
-
-	let [loading, setLoading] = useState<boolean>(true);
-	let [gameData, setGameData] = useState<Game[]>([]);
+	let [loading] = useState<boolean>(true);
+	let [gameData] = useState<Game[]>(data);
 
 	return (
 		<Fragment>
