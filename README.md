@@ -1,6 +1,6 @@
 # Meta Games
 
-![https://res.cloudinary.com/d74fh3kw/image/upload/v1600882514/meta-games_rntq0f.png](https://res.cloudinary.com/d74fh3kw/image/upload/v1600882514/meta-games_rntq0f.png 'Meta Game Reviews')
+![Meta Games](/img/meta-games.png 'Meta Game Reviews')
 
 ## Installation
 
